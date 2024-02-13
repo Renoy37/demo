@@ -1,10 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
+import mj from "./componenets/mj";
 
 function App() {
   return (
     <div className="App">
       {/* react app */}
+      <mj/>
       <div>div</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
