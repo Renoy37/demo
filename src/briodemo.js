@@ -3,6 +3,9 @@
         <>
             <div>
                <h1>Demo App</h1> 
+               <div>
+                <p>This is awesome</p>
+               </div>
             </div>        
         </>
     );
