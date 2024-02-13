@@ -1,4 +1,6 @@
 import mj from "./componenets/mj";
+import "./App.css";
+import Component1 from "./components/Component1";
 
 function App() {
   return (
@@ -20,6 +22,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+        div
+        <Component1 />
+      </div>
     </div>
   );
 }
