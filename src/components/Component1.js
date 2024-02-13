@@ -5,6 +5,7 @@ function Component1() {
     <div>
       Component1
       <h1>New component</h1>
+      <div>This iS a new one</div>
     </div>
   );
 }
